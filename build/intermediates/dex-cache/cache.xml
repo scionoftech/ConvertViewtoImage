@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sky/Drive/work/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_abff52237c7d9dfb0a762bb3a042d070f45a51b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_1c1a9357ff4ed39d8e4a142c814e83d5f333cb68/classes.dex" />
+    </item>
+    <item
+        jar="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_ae6db351656ad976f10eb0220bc1c1e40d71b23c/classes.dex" />
+    </item>
+    <item
+        jar="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_ad454f81d61d199bcb5982b52ea780c677b81bcc/classes.dex" />
+    </item>
+    <item
+        jar="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e7c806b4de92c2f1bfa3c786925f608d069cf75c">
+        <dex dex="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ff8178f083b5fe746d93d2849ff3af2f61266c5/classes.dex" />
+    </item>
+    <item
+        jar="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b34f98f466dd6825e4dfe5a2dd9c668492220e47">
+        <dex dex="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e38d9406d96e32e51871751e47cb672fef8dbd41/classes.dex" />
+    </item>
+    <item
+        jar="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_2f4ae51f03339469bf9288beead4498393d20c10/classes.dex" />
+    </item>
+    <item
+        jar="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/sky/Drive/work/android_workplace/ConvertViewToImage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_0ae30f2deea74ba734c5fb73c94c2fddb9d3186c/classes.dex" />
+    </item>
+
+</items>
